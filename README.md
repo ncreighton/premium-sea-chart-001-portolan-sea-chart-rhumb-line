@@ -1,0 +1,2 @@
+# premium-sea-chart-001-portolan-sea-chart-rhumb-line
+Stop drifting through your days without a clear bearing. The Portolan Sea Chart Rhumb Line and Coastline Log transforms Notion into a captain's bridge for your goals, where every task follows a constant bearing like a medieval navigator's rhumb line.  This isn't a generic tracker—it's a navigational instrument. By combining the precision of portola
